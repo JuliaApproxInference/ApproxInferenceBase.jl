@@ -1,0 +1,3 @@
+module ApproxInferenceBase
+
+end # module

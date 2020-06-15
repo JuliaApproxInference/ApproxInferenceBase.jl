@@ -1,0 +1,3 @@
+[deps]
+ApproxInferenceBase = "75a297da-974d-4ac6-a064-eb41166a1169"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
