@@ -12,6 +12,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/jbrea/ApproxInferenceBase.jl.git",
+    repo = "github.com/JuliaApproxInference/ApproxInferenceBase.jl.git",
     push_preview = true
 )
