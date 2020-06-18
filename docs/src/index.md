@@ -1,3 +1,12 @@
+```@meta
+CurrentModule = ApproxInferenceBase
+```
 # ApproxInferenceBase
+## Reference
 
-*Documentation goes here.*
+```@index
+```
+
+```@autodocs
+Modules = [ApproxInferenceBase]
+```
