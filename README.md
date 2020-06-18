@@ -7,7 +7,7 @@
 ![Lifecycle](https://img.shields.io/badge/lifecycle-archived-red.svg)
 ![Lifecycle](https://img.shields.io/badge/lifecycle-dormant-blue.svg) -->
 ![CI](https://github.com/JuliaApproxInference/ApproxInferenceBase.jl/workflows/CI/badge.svg)
-[![codecov.io](http://codecov.io/github/jbrea/ApproxInferenceBase.jl/coverage.svg?branch=master)](http://codecov.io/github/jbrea/ApproxInferenceBase.jl?branch=master)
+[![codecov.io](http://codecov.io/github/JuliaApproxInference/ApproxInferenceBase.jl/coverage.svg?branch=master)](http://codecov.io/github/jbrea/ApproxInferenceBase.jl?branch=master)
 <!--
 [![Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://jbrea.github.io/ApproxInferenceBase.jl/stable)
 [![Documentation](https://img.shields.io/badge/docs-master-blue.svg)](https://jbrea.github.io/ApproxInferenceBase.jl/dev)
