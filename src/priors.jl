@@ -41,3 +41,5 @@ rand(rng::AbstractRNG,factoreddist::Factored) = rand.(Ref(rng),factoreddist.p)
 returns the number of distributions contained in `p`.
 """
 length(p::Factored) = sum(length.(p.p))
+
+export Factored
