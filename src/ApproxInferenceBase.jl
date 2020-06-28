@@ -1,5 +1,5 @@
 module ApproxInferenceBase
-    using Distributions
-    using Random
-    include("priors.jl")
+using Distributions
+using Random
+include("priors.jl")
 end # module
